@@ -6,7 +6,7 @@
 
 O SEK é um sistema web que criei do zero, como jovem aprendiz, para a secretaria da escola onde trabalho. Ele junta num só lugar o que antes ficava espalhado em papel, planilhas e anotações, e **hoje já está em produção na instituição**.
 
-▶️ **[Veja a página do projeto, com o vídeo de demonstração](https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/)**
+▶️ **[Veja a página do projeto, com o vídeo de demonstração](https://kevinhsdev.github.io/sek-pub/)**
 
 ---
 
