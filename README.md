@@ -1,7 +1,5 @@
 # SEK · Sistema da Secretaria Escolar
 
-![Capa do SEK](imagens/capa.jpg)
-
 **A secretaria escolar inteira. Em um só lugar.**
 
 O SEK é um sistema web que criei do zero, como jovem aprendiz, para a secretaria da escola onde trabalho. Ele junta num só lugar o que antes ficava espalhado em papel, planilhas e anotações, e **hoje já está em produção na instituição**.
